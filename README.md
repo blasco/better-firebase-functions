@@ -1,3 +1,6 @@
+This repository is a maintained version of:
+    https://github.com/gramstr/better-firebase-functions
+
 # better-firebase-functions
 
 The main feature of this package is a function that provides a better way of automatically exporting function triggers
